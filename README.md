@@ -12,4 +12,4 @@
 ![Android](https://img.shields.io/badge/-android-%23282C34?style=for-the-badge&logo=android)
 
 
-![](https://github-readme-stats.vercel.app/api?username=452MJ&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=452MJ&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue)
