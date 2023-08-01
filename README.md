@@ -1,18 +1,3 @@
-# 自我简介
-你好，我是Jerry，来自中国广州，我有5年移动app开发经验，其中最近4年都着手于`react-native`开发，我有足够多的项目开发经验，包括电商商城，区块链钱包，加密货币交易所等等。
-
-英语读写能力没问题，可以进行日常的口语交流。
-
-谢谢你的阅读
-
-# Description
-
-Hello, I’m Jerry, from Guangzhou, China. I have 5 years of mobile app development experience, of which I have started `react-native` development in the last 4 years. I have enough experience in project development, including e-commerce malls and blockchain wallets. , Cryptocurrency exchanges, etc.
-
-There is no problem with English reading and writing ability, and daily oral communication can be carried out.
-
-Thanks for reading
-
 # Technology stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
